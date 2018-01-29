@@ -1,0 +1,26 @@
+﻿html {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    font-size: 14px;
+    width: 100%;
+}
+
+input, select {
+    border-radius: 2px;
+    border: 1px solid #c8cccf;
+    color: #6a6f77;
+    outline: 0;
+    font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,\\5FAE软雅黑,STHeitiSC-Light,simsun,\\5B8B体,WenQuanYi Zen Hei,WenQuanYi Micro Hei,"sans-serif";
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
+
